@@ -1,0 +1,7 @@
+config:
+  flask-sample:appPath: app
+  flask-sample:concurrency: "10"
+  flask-sample:containerPort: "8080"
+  flask-sample:cpu: "0"
+  flask-sample:memory: 128Mi
+  gcp:region: asia-northeast1
